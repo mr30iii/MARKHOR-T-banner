@@ -8,10 +8,11 @@
 
 * ```apt-get install git```
 
-* ```git clone https://github.com/Error-For-You/Termux-Banner```
+* ```git clone https://github.com/mr30iii/MARKHOR-T-banner```
 
 
-* ```cd Termux-Banner```
+* ```cd MARKHOR-T-banner
+```
 
 * ```bash setup.sh```
 ---
