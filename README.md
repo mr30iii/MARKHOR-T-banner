@@ -11,8 +11,8 @@
 * ```git clone https://github.com/mr30iii/MARKHOR-T-banner```
 
 
-* ```cd MARKHOR-T-banner
-```
+* ```cd MARKHOR-T-banner```
+
 
 * ```bash setup.sh```
 ---
