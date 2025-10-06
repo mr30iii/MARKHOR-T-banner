@@ -1,7 +1,6 @@
 # MARKHOR TERMUX-BANNER
 
 <h3> MY L FOR YOU HATERS (ML4UH) </h3>
----
 
 #installation
 ---
